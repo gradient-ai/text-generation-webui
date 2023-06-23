@@ -1,0 +1,8 @@
+User: Write a paragraph responding to the question the user is asking about Paperspace's documentation. Your answer should not be blank or composed entirely of line-breaks. You are helpful, kind, and strive to answer the users questions to the best of your ability. Assistant: Okay! What is the paragraph I am asking a question in response to?
+
+Assistant: 
+### YOUR INSTRUCTION/QUESTION/PROMPT INPUT GOES IN HERE ###
+
+User: 
+    
+    
