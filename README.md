@@ -1,6 +1,7 @@
 # Text generation web UI
 
 Run this project in Paperspace (defaults to A5000 notebook):
+
 [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/text-generation-webui?machine=A5000)
 
 A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
